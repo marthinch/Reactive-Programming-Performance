@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactiveProgramming", "ReactiveProgramming\ReactiveProgramming.csproj", "{EBC8A85A-3568-4CB2-B27E-3E06DE118F30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBC8A85A-3568-4CB2-B27E-3E06DE118F30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC8A85A-3568-4CB2-B27E-3E06DE118F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC8A85A-3568-4CB2-B27E-3E06DE118F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC8A85A-3568-4CB2-B27E-3E06DE118F30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C24EB887-3B65-47CD-A357-C8A95CD03673}
+	EndGlobalSection
+EndGlobal
